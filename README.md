@@ -84,7 +84,6 @@
 	1. Google My Maps의 DB화를 통한 안전 위치 정보 저장 
 	   
 	   공공데이터 csv 파일을 활용하여 AED 위치등 검색해서 쉽게 나오지 않는 안전 정보들을 My Maps에 응급, 화재, 재난, 치안 지도들로 나누고 데이터베이스화 하였음.
-	   ![스크린샷(278)](https://user-images.githubusercontent.com/104340127/192109149-b6dddbb2-4a1a-4ac3-b8ec-87f782f607c5.png)
 	
 	2. LocationListener,Geocoder를 활용하여 사용자의 위치 정보 확인 
 	   
