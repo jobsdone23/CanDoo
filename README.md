@@ -98,7 +98,7 @@
 
 시연 영상
 
-	*  링크 : [https://www.youtube.com/watch?v=NmlIt3hBlDU](https://www.youtube.com/watch?v=NmlIt3hBlDU)
+	*  유튜브 링크 : https://www.youtube.com/watch?v=NmlIt3hBlDU
 
 
 ----------------------------------------------------------------------------------------------------------------------
